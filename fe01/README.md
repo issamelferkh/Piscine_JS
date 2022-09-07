@@ -2,7 +2,7 @@
 
 # Fe 01
 
-! [] (images/state.jpg)
+![test](images/state.jpg)
 
 ## Basic rules
 
@@ -19,8 +19,8 @@
 * Sub projects may be changed until 1 hour before the submission deadline.
 * If you have found an error (otana logical error) in the problem, please register an issue in [Gitjum Lepoji] (https://github.com/42js/piscine). With your help, JS PISCINE becomes more perfect :)
 
-### [Exercise 00 -PULL & PUSH] (ex00.md)
-### [Exercise 01 -Use Functions] (ex01.md)
-### [Exercise 02 -Create your own homepage] (ex02.md)
-### [Exercise 03 -Create your own pretty homepage] (ex03.md)
-### [Exercise 04 -Create your own material homepage] (ex04.md)
+### [Exercise 00 -PULL & PUSH](ex00.md)
+### [Exercise 01 -Use Functions](ex01.md)
+### [Exercise 02 -Create your own homepage](ex02.md)
+### [Exercise 03 -Create your own pretty homepage](ex03.md)
+### [Exercise 04 -Create your own material homepage](ex04.md)
