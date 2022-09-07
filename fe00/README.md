@@ -2,7 +2,7 @@
 
 # Fe 00
 
-! [] (Images/React.png)
+![test](images/react.png)
 
 ## Basic rules
 
@@ -19,9 +19,9 @@
 * Sub projects may be changed until 1 hour before the submission deadline.
 * If you have found an error (otana logical error) in the problem, please register an issue in [Gitjum Lepoji] (https://github.com/42js/piscine). With your help, JS PISCINE becomes more perfect :)
 
-### [Exercise 00 -Hello React!] (Ex00.md)
-### [Exercise 01 -Component] (ex01.md)
-### [Exercise 02 -INPUT and ITEM] (ex02.md)
-### [Exercise 03 -State] (ex03.md)
-### [Exercise 04 -check and remove] (ex04.md)
-### [Exercise 05 -Optimization] (ex05.md)
+### [Exercise 00 -Hello React!](Ex00.md)
+### [Exercise 01 -Component](ex01.md)
+### [Exercise 02 -INPUT and ITEM](ex02.md)
+### [Exercise 03 -State](ex03.md)
+### [Exercise 04 -check and remove](ex04.md)
+### [Exercise 05 -Optimization](ex05.md)
