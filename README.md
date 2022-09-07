@@ -17,6 +17,7 @@ This is the Piscine project, a short-term Javascript curriculum created by 42 Ca
 
 > 🆙 Beta subjects will be uploaded during the morning of 8/11!
 
+
 <br>
 
 ### JS - Javascript 101
