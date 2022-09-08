@@ -12,6 +12,7 @@
   - [ ] Translate Exercise 03
   - [ ] Translate Exercise 04
   - [ ] Translate Exercise 05
+
 - JS01 : 
   - [ ] Move all images to /images folder
   - [ ] Translate Readme
