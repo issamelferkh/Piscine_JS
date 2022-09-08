@@ -33,21 +33,23 @@
   - [ ] Translate Exercise 05
 
 - FE00 : 
-  - [ ] in fe00/README.md correct hyperlik of "Exercise 00 -Hello React!"
-  - [ ] Check translation issues and formatting syntax issues in *.md file.
+  - [x] in fe00/README.md correct hyperlik of "Exercise 00 -Hello React!"
+  - [x] Check translation issues and formatting syntax issues in *.md file.
 - FE01 :
-  - [ ] Check translation issues and formatting syntax issues in *.md file.
+  - [x] Check translation issues and formatting syntax issues in *.md file.
 - FE02 : 
-  - [ ] Check translation issues and formatting syntax issues in *.md file.
+  - [x] Check translation issues and formatting syntax issues in *.md file.
 - FE03 :
-  - [ ] Check translation issues and formatting syntax issues in *.md file.
+  - [x] Check translation issues and formatting syntax issues in *.md file.
 
 - BE00 :
-  - [ ] Check translation issues and formatting syntax issues in *.md file.
+  - [x] Check translation issues and formatting syntax issues in *.md file.
 - BE01 : 
-  - [ ] Check translation issues and formatting syntax issues in *.md file.
+  - [x] Check translation issues and formatting syntax issues in *.md file.
 - BE02 : 
-  - [ ] Check translation issues and formatting syntax issues in *.md file.
+  - [x] Check translation issues and formatting syntax issues in *.md file.
 - BE03 : 
-  - [ ] Check translation issues and formatting syntax issues in *.md file.
+  - [x] Check translation issues and formatting syntax issues in *.md file.
+  - [ ] Translate images in the README.md
+
 

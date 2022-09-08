@@ -17,7 +17,7 @@
 * Code Format에 대하여 평가하지는 않지만, eslint나 beautify를 통해 code format을 체크하면서 진행하는 것을 권장합니다.
 * **RTFM!!**
 * 서브젝트는 제출 마감 1시간 전까지 변경될 수 있습니다.
-* 만약 문제에 오류(오타나 논리적 오류)를 발견했다면 [깃헙 리포지토리](https://github.com/42js/piscine)에 이슈를 등록해주세요. 여러분의 도움으로 JS Piscine이 더욱 완벽해집니다 :)
+* 만약 문제에 오류(오타나 논리적 오류)를 발견했다면 [깃헙 리포지토리](https://github.com/issamelferkh/Piscine_JS)에 이슈를 등록해주세요. 여러분의 도움으로 JS Piscine이 더욱 완벽해집니다 :)
 
 ### [Exercise 00 - setTimer](ex00.md)
 ### [Exercise 01 - Callback Hell 🔥](ex01.md)

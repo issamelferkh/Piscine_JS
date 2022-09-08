@@ -48,7 +48,7 @@ This is the Piscine project, a short-term Javascript curriculum created by 42 Ca
 
 ## 🧑‍💻 Contributors
 - [Mohamed saouab](https://github.com/msaouab)
-- [iqessam](https://github.com/iqessam)
+- [Ilyass Qessam](https://github.com/iqessam)
 - [Youssef Gbouri](https://github.com/ygbouri)
 - [Issam EL FERKH](https://github.com/issamelferkh)
 
