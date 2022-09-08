@@ -20,7 +20,7 @@
 * We do not evaluate the code format, but it is recommended to proceed while checking the code format through eslint or beautify.
 * **RTFM!!**
 * Subjects can be changed up to 1 hour before the submission deadline.
-* If you find an error (a typo or logical error) in the issue, please register the issue in the [github repository] (https://github.com/42js/piscine). Your help makes JS Piscine more perfect :)
+* If you find an error (a typo or logical error) in the issue, please register the issue in the [github repository](https://github.com/issamelferkh/Piscine_JS). Your help makes JS Piscine more perfect :)
 
 ### [Exercise 00 - Neckarakubaedo login first](ex00.md)
 ### [Exercise 01 - Hello, ma post!](ex01.md)

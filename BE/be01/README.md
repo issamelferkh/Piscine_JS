@@ -17,7 +17,7 @@
 * We do not evaluate the code format, but it is recommended to proceed while checking the code format through eslint or beautify.
 * **RTFM!!**
 * Subjects can be changed up to 1 hour before the submission deadline.
-* If you find an error (a typo or logical error) in the issue, please register the issue in the [github repository] (https://github.com/42js/piscine). Your help makes JS Piscine more perfect :)
+* If you find an error (a typo or logical error) in the issue, please register the issue in the [github repository] (https://github.com/issamelferkh/Piscine_JS). Your help makes JS Piscine more perfect :)
 
 ## before you go in
 - You must implement the Status Code and Header according to the request situation presented in the problem. When taking the assessment, the reasons used should be valid and consistent.
