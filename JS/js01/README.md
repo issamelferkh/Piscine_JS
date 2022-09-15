@@ -1,27 +1,27 @@
-# JS PISCINE
+#JS Pool
 
 # JS 01
 
-! [] (images/dino.gif)
+![](images/dino.gif)
 
 ## Basic rules
 
-* Node.js version used by JS PISCINE is LTS 14.x.
-* The problems are arranged in difficulty in difficulty.
-*Your code is expected to be evaluated through a colleague evaluation, so please write ** so that others can read! (For example, as if the variable name is set meaningfully, or the function name is named according to the function.)
-* In the case of implementing a function, the function is imported through the module at the time of evaluation. Therefore, you need to export the function code to be submitted.
-  -If one function to be implemented, you must process `Default Export '.
-** Nodemon **, ** Modules on the same development, such as ESLINT **, must be defined in 'DevDependencies'.
-* Before the evaluation, we install all pre -dependency modules through the `` NPM Install '' command.
-* Unnecessary files such as 'Node_modules' must be properly excluded through `.gitignore`.
-* We do not evaluate the Code Format, but we recommend that you proceed by checking the Code Format through ESLINT or BEAUTIFY.
-*** RTFM !! **
-* Sub projects may be changed until 1 hour before the submission deadline.
-* If you have found an error (otana logical error) in the problem, please register the issue in [Github repository] (https://github.com/issamelferkh/piscine_js). With your help, JS PISCINE becomes more perfect :)
+* The Node.JS version used by JS Piscine is LTS 14.x.
+* The questions are arranged in ascending order of difficulty.
+* Your code will be evaluated through peer review, so please make it **easy for others to read**! (For example, naming variables meaningfully or naming functions according to their functions.)
+* For the problem of implementing a function, the function is imported through the module upon evaluation. Therefore, you need to export the function code to be submitted.
+  - If there is only one function to be implemented, `default export` must be processed.
+* Modules related to development such as **nodemon** and **ESlint** must be defined in `devdependencies`.
+* Before proceeding with the evaluation, install all the prerequisite modules through the `npm install` command.
+* Unnecessary files like `node_modules` should be properly excluded via `.gitignore`.
+* We do not evaluate the code format, but it is recommended to proceed while checking the code format through eslint or beautify.
+* **RTFM!!**
+* Subjects can be changed up to 1 hour before the submission deadline.
+* If you find an error (a typo or logical error) in the issue, please register the issue in the [github repository](https://github.com/issamelferkh/Piscine_JS). Your help makes JS Piscine more perfect :)
 
-### [Exercise 00 -Window Size Checker] (ex00.md)
-### [Exercise 01 -Polar Bear] (ex01.md)
-### [Exercise 02 -Discount Calculator] (ex02.md)
-### [Exercise 03 -Catch Menu] (ex03.md)
-### [exercise 04 -rollin 'and scrollin'] (ex04.md)
-### [exercise 05 -todolist] (ex05.md)
+### [Exercise 00 - Window Size Checker](ex00.md)
+### [Exercise 01 - Polar Bear](ex01.md)
+### [Exercise 02 - Discount calculator](ex02.md)
+### [Exercise 03 - Catch Menu](ex03.md)
+### [Exercise 04 - Rollin' and Scrollin'](ex04.md)
+### [Exercise 05 - ToDoList](ex05.md)
