@@ -39,8 +39,8 @@ This is the Piscine project, a short-term Javascript curriculum created by 42 Ca
 
 <br>
 
-* Rush00: ??? (Projects carried out by 2 people, 1-2 people per team)
-* Rush01: ??? (Projects carried out by 3 or 4 people at random regardless of team)
+* [Rush00](Rush00) (Projects carried out by 2 people, 1-2 people per team)
+* [Rush01](Rush01) (Projects carried out by 3 or 4 people at random regardless of team)
 
 > 😥 As Rush's goal is to "collaborate within a short period of time", please understand that it will be released for a limited time.
 
