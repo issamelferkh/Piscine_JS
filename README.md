@@ -17,28 +17,29 @@ This is the Piscine project, a short-term Javascript curriculum created by 42 Ca
 <br>
 
 ### JS - Javascript 101
-* [JS00](js00) : JSX, Props and State, Component Types, Component Lifecycle
-* [JS01](js01) : DOM manipulation
-* [JS02](js02) : Synchronous & Asynchronous
+* [JS00](JS/js00) : JSX, Props and State, Component Types, Component Lifecycle
+* [JS01](JS/js01) : DOM manipulation
+* [JS02](JS/js02) : Synchronous & Asynchronous
 
 <br>
 
 ### FE - React
-* [FE00](fe00) : JSX, Props and State, Component Types, Component Lifecycle
-* [FE01](fe01) : Form control, React Styling
-* [FE02](fe02) : Using APIs
-* [FE03](fe03) : FE Comprehensive
+* [FE00](FE/fe00) : JSX, Props and State, Component Types, Component Lifecycle
+* [FE01](FE/fe01) : Form control, React Styling
+* [FE02](FE/fe02) : Using APIs
+* [FE03](FE/fe03) : FE Comprehensive
 
 <br>
 
 ### BE - Express
-* [BE00](be00) : Node.js, Validator, Templates
-* [BE01](be01) : Database, ORM, CURD
-* [BE02](be02) : Certification, Passport
-* [BE03](be03) : BE Comprehensive
+* [BE00](BE/be00) : Node.js, Validator, Templates
+* [BE01](BE/be01) : Database, ORM, CURD
+* [BE02](BE/be02) : Certification, Passport
+* [BE03](BE/be03) : BE Comprehensive
 
 <br>
 
+### Rush
 * [Rush00](Rush00) (Projects carried out by 2 people, 1-2 people per team)
 * [Rush01](Rush01) (Projects carried out by 3 or 4 people at random regardless of team)
 
@@ -47,8 +48,9 @@ This is the Piscine project, a short-term Javascript curriculum created by 42 Ca
 <br>
 
 ## 🧑‍💻 Contributors
+
+- [Youssef Gbouri](https://github.com/ygbouri)
 - [Mohamed saouab](https://github.com/msaouab)
 - [Ilyass Qessam](https://github.com/iqessam)
-- [Youssef Gbouri](https://github.com/ygbouri)
 - [Issam EL FERKH](https://github.com/issamelferkh)
 
