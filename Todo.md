@@ -50,6 +50,6 @@
   - [x] Check translation issues and formatting syntax issues in *.md file.
 - BE03 : 
   - [x] Check translation issues and formatting syntax issues in *.md file.
-  - [ ] Translate images in the README.md
+  - [x] Translate images in the README.md
 
 
